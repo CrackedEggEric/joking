@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tutorial Practice File",
+"productVersion": "0.1",
+"dataUrl": "joke.data.unityweb",
+"wasmCodeUrl": "joke.wasm.code.unityweb",
+"wasmFrameworkUrl": "joke.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
